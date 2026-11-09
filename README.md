@@ -70,6 +70,7 @@ Key activities:
 
 - **Email:** nonsodibie99@gmail.com
 - **Location:** Lagos, Nigeria
+- **Linkedin:** https://www.linkedin.com/in/chinonso-emmanuel-dibie/
 
 I'm open to learning opportunities, collaborations, internships and opportunities to grow within the technology industry.
 
