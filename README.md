@@ -1,4 +1,4 @@
-Hi, I'm Chinonso Emmanuel Dibie 👋
+## Hi, I'm Chinonso Emmanuel Dibie 👋
 
 #### Computer Science Graduate | Python Developer | Frontend Development | NLP & Machine Learning | IT & Network Support
 
